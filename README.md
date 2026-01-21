@@ -10,4 +10,4 @@ To run this script, you need to have **Python** installed on your machine. You c
 Installation
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/Lenged23/Python-code.git](https://github.com/Lenged23/Python-code.git)
+   git clone [https://github.com/Mazino-debug/Python-Code.git](https://github.com/Mazino-debug/Python-Code.git)
